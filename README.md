@@ -145,5 +145,3 @@ This image most likely belongs to sunflowers with a 99.52% confidence.
 
 ---
 
-Let me know if you’d like any modifications or additional details!
-
